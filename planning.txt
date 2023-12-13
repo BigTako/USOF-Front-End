@@ -1,0 +1,33 @@
+28s pizzeria
+
+1) Project requirements from the business
+    -Very simple pizzaria app where users can order one or multiple pizza from menu
+    -No API is provided so need to implement it by myself
+    -At home page app should ask user for name, if name is admin - ask for password also
+    -Requires two roles user and admin
+    -User should have an oppurtunity to save ordered pizzas to the cart, so to be able to make only one order with all the pizzas
+    -if it possible GPS location could also be provided in order to make client life a little bit easier
+    -Each order must have a unique ID , so the user can track it's status
+    -Payments are made on delivery so no payment logic is required
+
+2) Features + pages
+    Features:
+        1) User
+        2) Menu
+        3) Cart
+        4) Order
+    Pages:
+        1) Homepage(username is asked here) -> /
+        2) Menu(pizzas overview here) -> /menu
+        3) Order(overview of order here) -> /order/:id
+
+3) State management:
+    Routing: ReactRouter
+    Styling: Bootstrap
+    Remote state management: ReactQuery
+    Ui State management: Contentx API
+    Form management: React hook form
+    Other tools: React icons, React hot toast
+
+
+    
