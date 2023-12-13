@@ -1,4 +1,4 @@
-<img src="https://github.com/BigTako/USOF-Front-End/src/assets/logo.png" alt="devtalk_logo" style="width:300px;"/>
+<img src="https://github.com/BigTako/USOF-Front-End/assets/87268303/1eea5bfc-8e1a-4cdd-822e-f1803b571bdd" alt="logo" style="width:300px;"/>
 
 ---
 
