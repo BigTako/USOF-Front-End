@@ -1,4 +1,4 @@
-<img src="https://github.com/BigTako/USOF-Front-End/assets/87268303/1eea5bfc-8e1a-4cdd-822e-f1803b571bdd" alt="logo" style="width:300px;"/>
+<img src="https://github.com/BigTako/USOF-Front-End/assets/87268303/c8ebe554-bab6-4c87-8761-6430d082e185" alt="logo" style="width:300px;"/>
 
 ---
 
